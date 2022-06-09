@@ -12,5 +12,6 @@ public class test {
 		}
 		System.out.println("Gia trij nhap la: "+n);
 		System.out.println("Ket thuc chuong trinh.");
+		System.out.println("test push");
 }
 }
